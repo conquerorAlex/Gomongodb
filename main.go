@@ -32,6 +32,8 @@ func main(){
 
 	//mser.AddUser(db)
 	mser.FindUser(db)
+	mser.FindManyUser(db)
+	mser.FindOneUser(db)
 
 
 
